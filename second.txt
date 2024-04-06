@@ -1,3 +1,7 @@
 New file created and one line added
 
+
 Detached HEAD line
+
+added anoter line from remote
+
