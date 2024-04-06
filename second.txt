@@ -1,5 +1,7 @@
 New file created and one line added
 
+Added second line from local
+
 
 Detached HEAD line
 
