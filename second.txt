@@ -1,1 +1,3 @@
 New file created and one line added
+
+Detached HEAD line
