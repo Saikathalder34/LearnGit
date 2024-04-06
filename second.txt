@@ -7,3 +7,4 @@ Detached HEAD line
 
 added anoter line from remote
 
+New line from local in 7th commit
